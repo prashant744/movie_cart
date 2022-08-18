@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { addMovieToList, handleMovieSearch } from '../actions';
-import { data } from '../data';
+// import { data } from '../data';
 import { StoreContext } from '..';
 
 class Navbar extends Component {
